@@ -155,3 +155,7 @@ Enums are defined in the database schema, not just in TypeScript. This means inv
 ## Soft Delete vs Archive
 
 Products are never hard-deleted. They are set to `status: ARCHIVED`. This preserves referential integrity — `OrderItem.variantId` still points to a valid `ProductVariant` even after a product is taken off sale. Hard deletion would break order history.
+
+## Core Models
+
+Game, Edition (PS4/PS5), User, Cart, Order, OrderItem, Review, Embedding.
