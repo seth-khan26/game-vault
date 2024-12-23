@@ -159,3 +159,7 @@ Products are never hard-deleted. They are set to `status: ARCHIVED`. This preser
 ## Core Models
 
 Game, Edition (PS4/PS5), User, Cart, Order, OrderItem, Review, Embedding.
+
+## pgvector
+
+Run `CREATE EXTENSION IF NOT EXISTS vector;` before migrations.
