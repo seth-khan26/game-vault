@@ -146,3 +146,7 @@ NextAuth stores the JWT in an HTTP-only, `Secure`, `SameSite=Lax` cookie by defa
 ## Session Expiry
 
 The default NextAuth JWT strategy issues tokens that expire in 30 days. After expiry the user is redirected to `/login`. The `NEXTAUTH_SECRET` environment variable is used to sign and verify the JWT.
+
+## Auth
+
+Credentials provider with bcrypt hashing. JWT sessions, no DB sessions.
