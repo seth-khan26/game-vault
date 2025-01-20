@@ -141,3 +141,7 @@ return { products, total, page, limit, totalPages: Math.ceil(total / limit) }
 ```
 
 `count` and `findMany` run in parallel with the same `where` clause. The `totalPages` value drives the pagination UI. Page links are plain `<a>` tags that serialize all current filter state into the URL — there is no client-side state for pagination.
+
+## Catalog API
+
+`GET /api/games?platform=PS5&genre=RPG&page=1` — server-rendered.
