@@ -115,3 +115,7 @@ npx prisma migrate reset  # drops and recreates DB, runs migrations, then seeds
 
 **Prisma client out of date after schema changes**
 - Run `npx prisma generate` to regenerate the client
+
+## Docker
+
+`docker-compose up -d` starts PostgreSQL 15 with pgvector pre-installed.
