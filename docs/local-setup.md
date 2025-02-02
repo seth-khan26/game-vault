@@ -119,3 +119,7 @@ npx prisma migrate reset  # drops and recreates DB, runs migrations, then seeds
 ## Docker
 
 `docker-compose up -d` starts PostgreSQL 15 with pgvector pre-installed.
+
+## UI
+
+shadcn/ui Button, Card, Dialog, Table, Toast used throughout storefront.
