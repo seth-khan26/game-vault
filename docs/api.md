@@ -292,3 +292,7 @@ Sets inventory to the given absolute value.
 #### `GET /api/admin/customers`
 
 List all customer accounts with order stats.
+
+## Validation
+
+All request bodies validated with Zod. Type-safe on client and server.
