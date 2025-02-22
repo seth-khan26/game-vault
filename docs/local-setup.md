@@ -123,3 +123,7 @@ npx prisma migrate reset  # drops and recreates DB, runs migrations, then seeds
 ## UI
 
 shadcn/ui Button, Card, Dialog, Table, Toast used throughout storefront.
+
+## Tooling
+
+Strict TS + ESLint. No implicit `any` without explicit justification.
