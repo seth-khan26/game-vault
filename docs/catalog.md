@@ -145,3 +145,7 @@ return { products, total, page, limit, totalPages: Math.ceil(total / limit) }
 ## Catalog API
 
 `GET /api/games?platform=PS5&genre=RPG&page=1` — server-rendered.
+
+## Layout
+
+Persistent header with search bar, cart icon, and auth state.
