@@ -153,3 +153,7 @@ Persistent header with search bar, cart icon, and auth state.
 ## Editions
 
 PS4 and PS5 editions with independent price, SKU, and stock.
+
+## Filters
+
+Filter by platform, genre, price, release year, in-stock only.
