@@ -157,3 +157,7 @@ PS4 and PS5 editions with independent price, SKU, and stock.
 ## Filters
 
 Filter by platform, genre, price, release year, in-stock only.
+
+## Game Detail
+
+Detail page shows both editions with price and availability.
