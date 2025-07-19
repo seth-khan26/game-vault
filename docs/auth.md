@@ -150,3 +150,7 @@ The default NextAuth JWT strategy issues tokens that expire in 30 days. After ex
 ## Auth
 
 Credentials provider with bcrypt hashing. JWT sessions, no DB sessions.
+
+## Registration
+
+bcrypt cost 12. Email uniqueness enforced at DB level.
