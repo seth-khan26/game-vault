@@ -154,3 +154,7 @@ Credentials provider with bcrypt hashing. JWT sessions, no DB sessions.
 ## Registration
 
 bcrypt cost 12. Email uniqueness enforced at DB level.
+
+## Login
+
+Credential login returns JWT with userId, email, and role.
