@@ -166,3 +166,7 @@ Users update display name, email, and password.
 ## Token Rotation
 
 Refresh tokens rotate on every use. Old tokens invalidated.
+
+## Data Export
+
+Users export personal data and deactivate accounts.
