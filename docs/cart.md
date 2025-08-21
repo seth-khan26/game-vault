@@ -128,3 +128,7 @@ The `Cart` row itself is retained — it will be reused for the user's next shop
 | `POST` | `/api/cart` | Required | `{ variantId, quantity }` | Add item to cart |
 | `PATCH` | `/api/cart/[itemId]` | Required | `{ quantity }` | Update item quantity |
 | `DELETE` | `/api/cart/[itemId]` | Required | — | Remove item from cart |
+
+## Cart
+
+Cart stored in DB per user session. Survives browser restarts.
