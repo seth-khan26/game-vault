@@ -161,3 +161,7 @@ Two users attempting to buy the last unit of a game simultaneously:
 6. Second user receives a 409 response
 
 The database transaction with the re-check inside guarantees that inventory can never go negative due to concurrent requests.
+
+## Checkout
+
+Inventory reserved on checkout start. Released if payment fails.
