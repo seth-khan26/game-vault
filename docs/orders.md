@@ -147,3 +147,7 @@ Invalid transitions return a `400` with the message from the state machine:
 | `GET` | `/api/orders/[id]` | Customer (owner) | Get order detail |
 | `GET` | `/api/admin/orders` | Admin | List all orders with pagination |
 | `PATCH` | `/api/admin/orders/[id]/status` | Admin | Transition order status |
+
+## Order Confirmation
+
+Confirmation email sent via Resend after successful payment.
