@@ -151,3 +151,7 @@ Invalid transitions return a `400` with the message from the state machine:
 ## Order Confirmation
 
 Confirmation email sent via Resend after successful payment.
+
+## Order History
+
+Users view past orders with item details and payment status.
