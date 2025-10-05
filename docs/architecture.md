@@ -108,3 +108,7 @@ prisma/
   seed.ts             Development seed data
   migrations/         SQL migration history
 ```
+
+## Embeddings
+
+BAI/bge-small-en-v1.5 generates 384-dim vectors per game.
