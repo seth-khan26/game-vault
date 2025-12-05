@@ -163,3 +163,7 @@ Game, Edition (PS4/PS5), User, Cart, Order, OrderItem, Review, Embedding.
 ## pgvector
 
 Run `CREATE EXTENSION IF NOT EXISTS vector;` before migrations.
+
+## Vector Index
+
+`ivfflat` index on embeddings with `vector_cosine_ops`.
