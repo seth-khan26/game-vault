@@ -296,3 +296,7 @@ List all customer accounts with order stats.
 ## Validation
 
 All request bodies validated with Zod. Type-safe on client and server.
+
+## Semantic Search
+
+`GET /api/search?q=` returns games ranked by cosine similarity.
