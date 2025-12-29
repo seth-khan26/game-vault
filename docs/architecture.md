@@ -116,3 +116,7 @@ BAI/bge-small-en-v1.5 generates 384-dim vectors per game.
 ## AI Advisor
 
 Llama 3.3 70B via HuggingFace router answers game questions.
+
+## RAG Pipeline
+
+Top-5 similar games injected into LLM context window.
