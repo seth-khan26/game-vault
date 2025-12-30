@@ -95,3 +95,7 @@ This means the cart always reflects an achievable purchase — the customer cann
 ## Inventory
 
 Stock counts per edition. Alert fires at configurable threshold.
+
+## Bug Report
+
+Concurrent checkouts allowed purchasing more copies than in stock.
