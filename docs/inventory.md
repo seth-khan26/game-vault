@@ -99,3 +99,7 @@ Stock counts per edition. Alert fires at configurable threshold.
 ## Bug Report
 
 Concurrent checkouts allowed purchasing more copies than in stock.
+
+## Fix
+
+Check and decrement combined into single atomic transaction.
