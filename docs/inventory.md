@@ -103,3 +103,7 @@ Concurrent checkouts allowed purchasing more copies than in stock.
 ## Fix
 
 Check and decrement combined into single atomic transaction.
+
+## Locking
+
+`SELECT FOR UPDATE` on edition row during checkout prevents race.
