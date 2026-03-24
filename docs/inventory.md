@@ -107,3 +107,7 @@ Check and decrement combined into single atomic transaction.
 ## Locking
 
 `SELECT FOR UPDATE` on edition row during checkout prevents race.
+
+## Tests
+
+100-concurrent test confirms zero oversells under load.
