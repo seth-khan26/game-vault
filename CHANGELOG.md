@@ -10,3 +10,5 @@
 <!-- 2026-03-24 --> - Improve mobile checkout layout on small screens
 
 <!-- 2026-03-28 --> - Improve catalog pagination with cursor-based approach
+
+<!-- 2026-04-10 --> - Fix duplicate order created on Stripe webhook retry
