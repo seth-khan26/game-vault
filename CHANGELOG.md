@@ -12,3 +12,5 @@
 <!-- 2026-03-28 --> - Improve catalog pagination with cursor-based approach
 
 <!-- 2026-04-10 --> - Fix duplicate order created on Stripe webhook retry
+
+<!-- 2026-04-11 --> - Add pre-order countdown timer to game detail page
