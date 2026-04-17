@@ -127,3 +127,7 @@ shadcn/ui Button, Card, Dialog, Table, Toast used throughout storefront.
 ## Tooling
 
 Strict TS + ESLint. No implicit `any` without explicit justification.
+
+## Seed Data
+
+`npm run db:seed` loads 50 PS4/PS5 games with embeddings.
