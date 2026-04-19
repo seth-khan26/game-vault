@@ -14,3 +14,5 @@
 <!-- 2026-04-10 --> - Fix duplicate order created on Stripe webhook retry
 
 <!-- 2026-04-11 --> - Add pre-order countdown timer to game detail page
+
+<!-- 2026-04-19 --> - Fix incorrect discount calculation for bundle deals
