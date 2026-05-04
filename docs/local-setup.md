@@ -131,3 +131,7 @@ Strict TS + ESLint. No implicit `any` without explicit justification.
 ## Seed Data
 
 `npm run db:seed` loads 50 PS4/PS5 games with embeddings.
+
+## Payment Testing
+
+Stripe test mode. Use card `4242 4242 4242 4242`.
