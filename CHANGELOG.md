@@ -16,3 +16,5 @@
 <!-- 2026-04-11 --> - Add pre-order countdown timer to game detail page
 
 <!-- 2026-04-19 --> - Fix incorrect discount calculation for bundle deals
+
+<!-- 2026-05-05 --> - Refactor checkout flow state machine for clarity
