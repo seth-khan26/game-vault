@@ -135,3 +135,7 @@ Strict TS + ESLint. No implicit `any` without explicit justification.
 ## Payment Testing
 
 Stripe test mode. Use card `4242 4242 4242 4242`.
+
+## Embeddings
+
+Pre-generated embeddings in `prisma/seed-embeddings.json`.
