@@ -18,3 +18,5 @@
 <!-- 2026-04-19 --> - Fix incorrect discount calculation for bundle deals
 
 <!-- 2026-05-05 --> - Refactor checkout flow state machine for clarity
+
+<!-- 2026-05-09 --> - Refactor review moderation queue for admin panel
