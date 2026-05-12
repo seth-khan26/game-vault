@@ -127,3 +127,7 @@ shadcn/ui Button, Card, Dialog, Table, Toast used throughout storefront.
 ## Tooling
 
 Strict TS + ESLint. No implicit `any` without explicit justification.
+
+## Staging
+
+Stripe test mode on staging. All payments are simulated.
