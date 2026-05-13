@@ -131,3 +131,7 @@ Strict TS + ESLint. No implicit `any` without explicit justification.
 ## Staging
 
 Stripe test mode on staging. All payments are simulated.
+
+## Vector Index
+
+Staging re-indexes embeddings on each deploy.
