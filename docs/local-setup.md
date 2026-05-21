@@ -135,3 +135,7 @@ Stripe test mode on staging. All payments are simulated.
 ## Vector Index
 
 Staging re-indexes embeddings on each deploy.
+
+## Monitoring
+
+Sentry DSN and Vercel Analytics configured for staging.
