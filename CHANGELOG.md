@@ -20,3 +20,5 @@
 <!-- 2026-05-05 --> - Refactor checkout flow state machine for clarity
 
 <!-- 2026-05-09 --> - Refactor review moderation queue for admin panel
+
+<!-- 2026-05-21 --> - Add user purchase history to account dashboard
