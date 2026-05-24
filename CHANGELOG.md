@@ -22,3 +22,5 @@
 <!-- 2026-05-09 --> - Refactor review moderation queue for admin panel
 
 <!-- 2026-05-21 --> - Add user purchase history to account dashboard
+
+<!-- 2026-05-24 --> - Add wishlist sharing via public URL feature
