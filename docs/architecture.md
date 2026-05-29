@@ -120,3 +120,7 @@ Llama 3.3 70B via HuggingFace router answers game questions.
 ## RAG Pipeline
 
 Top-5 similar games injected into LLM context window.
+
+## Conversation Memory
+
+Advisor keeps last 10 messages as context for follow-ups.
