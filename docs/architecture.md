@@ -124,3 +124,7 @@ Top-5 similar games injected into LLM context window.
 ## Conversation Memory
 
 Advisor keeps last 10 messages as context for follow-ups.
+
+## Personalization
+
+Purchase embeddings bias similarity toward user's taste profile.
