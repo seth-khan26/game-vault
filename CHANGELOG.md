@@ -26,3 +26,5 @@
 <!-- 2026-05-24 --> - Add wishlist sharing via public URL feature
 
 <!-- 2026-06-01 --> - Fix missing CSRF protection on account update form
+
+<!-- 2026-06-03 --> - Fix pgvector index not used for small result sets
