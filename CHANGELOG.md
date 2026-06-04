@@ -28,3 +28,5 @@
 <!-- 2026-06-01 --> - Fix missing CSRF protection on account update form
 
 <!-- 2026-06-03 --> - Fix pgvector index not used for small result sets
+
+<!-- 2026-06-04 --> - Refactor embedding generation to use batch API calls
