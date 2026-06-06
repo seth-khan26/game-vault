@@ -30,3 +30,5 @@
 <!-- 2026-06-03 --> - Fix pgvector index not used for small result sets
 
 <!-- 2026-06-04 --> - Refactor embedding generation to use batch API calls
+
+<!-- 2026-06-06 --> - Improve catalog search response time with query cache
