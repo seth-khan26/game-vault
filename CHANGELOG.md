@@ -32,3 +32,5 @@
 <!-- 2026-06-04 --> - Refactor embedding generation to use batch API calls
 
 <!-- 2026-06-06 --> - Improve catalog search response time with query cache
+
+<!-- 2026-06-07 --> - Add related games section to game detail page
