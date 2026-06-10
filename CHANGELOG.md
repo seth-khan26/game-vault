@@ -36,3 +36,5 @@
 <!-- 2026-06-07 --> - Add related games section to game detail page
 
 <!-- 2026-06-08 --> - Add missing index on orders.userId for history query
+
+<!-- 2026-06-10 --> - Fix stale inventory count shown in cart summary
