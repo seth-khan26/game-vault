@@ -38,3 +38,5 @@
 <!-- 2026-06-08 --> - Add missing index on orders.userId for history query
 
 <!-- 2026-06-10 --> - Fix stale inventory count shown in cart summary
+
+<!-- 2026-06-11 --> - Refactor payment intent creation for better error handling
