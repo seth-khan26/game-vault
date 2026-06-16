@@ -40,3 +40,5 @@
 <!-- 2026-06-10 --> - Fix stale inventory count shown in cart summary
 
 <!-- 2026-06-11 --> - Refactor payment intent creation for better error handling
+
+<!-- 2026-06-16 --> - Improve low-stock alert threshold configuration UI
