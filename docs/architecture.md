@@ -132,3 +132,7 @@ Purchase embeddings bias similarity toward user's taste profile.
 ## Comparison Mode
 
 Advisor compares two games across genre, price, and reviews.
+
+## Feedback Loop
+
+Users rate responses. Low-rated answers flagged for review.
