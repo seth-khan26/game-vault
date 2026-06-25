@@ -42,3 +42,5 @@
 <!-- 2026-06-11 --> - Refactor payment intent creation for better error handling
 
 <!-- 2026-06-16 --> - Improve low-stock alert threshold configuration UI
+
+<!-- 2026-06-25 --> - Fix RAG context window overflow for long game descriptions
