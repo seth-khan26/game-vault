@@ -44,3 +44,5 @@
 <!-- 2026-06-16 --> - Improve low-stock alert threshold configuration UI
 
 <!-- 2026-06-25 --> - Fix RAG context window overflow for long game descriptions
+
+<!-- 2026-06-26 --> - Add view count tracking per game edition
