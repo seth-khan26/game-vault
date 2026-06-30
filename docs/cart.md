@@ -136,3 +136,7 @@ Cart stored in DB per user session. Survives browser restarts.
 ## Reservation TTL
 
 Inventory reserved 15 min during checkout. Auto-released on expiry.
+
+## Bug Report
+
+Cart cleared on refresh for users with strict cookie settings.
