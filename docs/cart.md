@@ -140,3 +140,7 @@ Inventory reserved 15 min during checkout. Auto-released on expiry.
 ## Bug Report
 
 Cart cleared on refresh for users with strict cookie settings.
+
+## Fix
+
+Cookie set with `SameSite=Lax; Secure` for cross-page persistence.
