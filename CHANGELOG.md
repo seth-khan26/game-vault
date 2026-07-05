@@ -46,3 +46,5 @@
 <!-- 2026-06-25 --> - Fix RAG context window overflow for long game descriptions
 
 <!-- 2026-06-26 --> - Add view count tracking per game edition
+
+<!-- 2026-07-05 --> - Fix cart quantity update not reflecting stock limit
