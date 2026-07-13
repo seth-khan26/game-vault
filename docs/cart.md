@@ -144,3 +144,7 @@ Cart cleared on refresh for users with strict cookie settings.
 ## Fix
 
 Cookie set with `SameSite=Lax; Secure` for cross-page persistence.
+
+## Fallback
+
+Cart synced to localStorage as fallback when cookies blocked.
