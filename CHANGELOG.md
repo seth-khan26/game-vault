@@ -48,3 +48,5 @@
 <!-- 2026-06-26 --> - Add view count tracking per game edition
 
 <!-- 2026-07-05 --> - Fix cart quantity update not reflecting stock limit
+
+<!-- 2026-07-15 --> - Improve semantic search relevance with re-ranking step
