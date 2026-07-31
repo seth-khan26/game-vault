@@ -52,3 +52,5 @@
 <!-- 2026-07-15 --> - Improve semantic search relevance with re-ranking step
 
 <!-- 2026-07-31 --> - Fix order status not updating after Stripe webhook
+
+<!-- 2026-07-31 --> - Add admin bulk price update for edition pricing
