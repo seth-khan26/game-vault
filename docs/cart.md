@@ -148,3 +148,7 @@ Cookie set with `SameSite=Lax; Secure` for cross-page persistence.
 ## Fallback
 
 Cart synced to localStorage as fallback when cookies blocked.
+
+## E2E Tests
+
+Covers cart through page refresh, tab switch, and login flow.
