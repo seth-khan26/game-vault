@@ -132,3 +132,7 @@ The `Cart` row itself is retained — it will be reused for the user's next shop
 ## Cart
 
 Cart stored in DB per user session. Survives browser restarts.
+
+## Reservation TTL
+
+Inventory reserved 15 min during checkout. Auto-released on expiry.

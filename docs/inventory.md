@@ -95,3 +95,19 @@ This means the cart always reflects an achievable purchase — the customer cann
 ## Inventory
 
 Stock counts per edition. Alert fires at configurable threshold.
+
+## Bug Report
+
+Concurrent checkouts allowed purchasing more copies than in stock.
+
+## Fix
+
+Check and decrement combined into single atomic transaction.
+
+## Locking
+
+`SELECT FOR UPDATE` on edition row during checkout prevents race.
+
+## Tests
+
+100-concurrent test confirms zero oversells under load.
