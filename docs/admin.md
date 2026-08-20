@@ -150,3 +150,7 @@ The customers page shows all users with `role: 'CUSTOMER'`. It displays name, em
 | `GET` | `/api/admin/inventory` | All variants with stock |
 | `PATCH` | `/api/admin/inventory` | Set variant inventory |
 | `GET` | `/api/admin/customers` | Customer list |
+
+## Admin Catalog
+
+Admins add/edit games, prices, and edition availability.

@@ -91,3 +91,7 @@ This means the cart always reflects an achievable purchase — the customer cann
 |---|---|---|---|---|
 | `GET` | `/api/admin/inventory` | Admin | — | List all variants with stock levels |
 | `PATCH` | `/api/admin/inventory` | Admin | `{ variantId, inventory }` | Set inventory for a variant |
+
+## Inventory
+
+Stock counts per edition. Alert fires at configurable threshold.
