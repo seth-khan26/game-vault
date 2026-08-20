@@ -158,3 +158,7 @@ To add Stripe support:
 5. Update the webhook route at `/api/webhooks/stripe` to verify the Stripe signature and call `paymentService` functions
 
 No other files change.
+
+## Stripe
+
+Payment intents with webhook confirmation. No card data on server.
